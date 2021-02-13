@@ -1,4 +1,4 @@
-# Telegram-Bot
+# Telegram-Media-Downloader
 A bot to download all photos and videos on telegram channel
 
 ## Getting Started

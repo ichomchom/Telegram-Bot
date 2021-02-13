@@ -17,7 +17,8 @@ A bot to download all photos and videos on telegram channel
 ### Prerequisites
 
 1. Create telegram apps to get api_id and api_hash
-	[telegram](https://my.telegram.org/apps)
+
+[telegram](https://my.telegram.org/apps)
 
 
 ## Authors
